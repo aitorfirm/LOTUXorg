@@ -17,7 +17,7 @@ int main() {
         fclose(fp);
     }
 
-    ShellExecuteA(NULL, "open", "cmd.exe", "/c ping TU.IP.AQUÍ -n 1", NULL, SW_HIDE);
+    ShellExecuteA(NULL, "open", "cmd.exe", "/c ping YOUR.FUCKING.IP -n 1", NULL, SW_HIDE);
 
     Sleep(3000);
   
