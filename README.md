@@ -5,7 +5,7 @@
 ![Texto animado](https://rudetext.vercel.app/api?text=Spunch+Bop)
 
 > [!IMPORTANT]\
-> ![Rainbowy Rainbows :3](https://rudetext.vercel.app/api?text=Sometimes&animation=rainbow&height=16&width=96&dominant_baseline=auto) a 0-day vulnerability is part of a larger set of interconnected flaws. Patching one piece doesn't guarantee that the entire set is closed. This allows the exploit to continue working in part, while retaining the [0-day label.](https://learn.microsoft.com/en-us/defender-vulnerability-management/tvm-zero-day-vulnerabilities)
+> ![Rainbowy Rainbows :3](https://rudetext.vercel.app/api?text=Sometimes&animation=rainbow&height=16&width=96&dominant_baseline=auto)a 0-day vulnerability is part of a larger set of interconnected flaws. Patching one piece doesn't guarantee that the entire set is closed. This allows the exploit to continue working in part, while retaining the [0-day label.](https://learn.microsoft.com/en-us/defender-vulnerability-management/tvm-zero-day-vulnerabilities)
 
 # LOTUXorg
 ![multi–vector](https://img.shields.io/badge/multi–vector-red?style=for-the-badge&logo=shield&logoColor=white)
