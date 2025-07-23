@@ -7,7 +7,7 @@
 > Sometimes, a 0-day vulnerability is part of a larger set of interconnected flaws. Patching one piece doesn't guarantee that the entire set is closed. This allows the exploit to continue working in part, while retaining the [0-day label.](https://learn.microsoft.com/en-us/defender-vulnerability-management/tvm-zero-day-vulnerabilities)
 
 # LOTUXorg
-
+![multi–vector](https://img.shields.io/badge/multi–vector-red?style=for-the-badge&logo=shield&logoColor=white)
 This trojan is a sophisticated multi-vector malware that leverages several powerful zero-day vulnerabilities including CVE-2025-26633, CVE-2025-24985, and CVE-2025-27737 to achieve stealthy privilege escalation and persistent system compromise. It incorporates advanced UAC bypass techniques based on URL protocol hijacking that allow it to execute commands with elevated privileges without triggering user prompts or requiring administrative consent. In addition, the trojan includes a reliable Safe Mode bypass mechanism that ensures it continues to operate even when the system attempts to enter restricted or diagnostic modes designed to block malware activity. For persistence, the trojan employs robust techniques such as registry autorun entries, strategic injection into SYSTEM processes, and scheduled task manipulation, enabling it to maintain foothold across reboots and evade most standard detection and removal methods. The combination of zero-day exploitation, stealthy privilege escalation, and resilient persistence mechanisms makes this trojan highly effective for covert operations and long-term access within compromised environments.
 
 <p align="center">
