@@ -35,8 +35,8 @@ When do they stop being 0-days? When are they fixed
 
 ## Documentation
 
-[CVE-2025-26633]([https://linktodocumentation](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26633))
-[CVE-2025-24985]([https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24985)
-[CVE-2025-27737]([https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-27737)
+[CVE-2025-26633](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26633)
+[CVE-2025-24985](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24985)
+[CVE-2025-27737](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-27737)
 
 > 💡 Contact Us: 0x0A1T0R@proton.me
