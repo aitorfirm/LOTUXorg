@@ -6,13 +6,9 @@ This trojan is a sophisticated multi-vector malware that leverages several power
 
 ## Creators
  `@aitorcillo`
- 
  `@3forms`
- 
  `@mitelvireal`
- 
  `@illxumnb`
- 
  `@securitygov`
 
 - Warning: This Trojan is a working PoC, we will not provide any compilation instructions, nor will we assist in the production of this malware for legal reasons. We are not responsible for any damage caused by using this software. You have been warned.
