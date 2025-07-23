@@ -1,2 +1,2 @@
 # LOTUXorg
--- 0-day trojan
+- 0-day trojan
