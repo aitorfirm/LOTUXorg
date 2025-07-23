@@ -1,7 +1,7 @@
 > [!IMPORTANT]\
 > Older systems, IoT devices, or outdated software don't receive immediate updates or don't receive any at all. Therefore, for a large portion of the installed fleet, it remains a 0-day vulnerability. In practice, the malware or exploit research community may continue to refer to a vulnerability exploited by malware as a "0-day vulnerability" because, in many environments, the risk is real and the exploit effective until the majority of users or systems are protected. Many devices or operating systems that are at the end of their useful life (EOL) do not receive official patches. For these systems, the vulnerability remains a 0-day vulnerability for practical purposes, even if the manufacturer has released the patch for newer versions.
 
-https://img.shields.io/badge/look%20it-is-6a0dad?style=for-the-badge&logo=shield&logoColor=white
+![look it is](https://img.shields.io/badge/look%20it-is-6a0dad?style=for-the-badge&logo=shield&logoColor=white)
 
 > [!IMPORTANT]\
 > We're a small team, and to prioritize, we rely on upvotes :+1:. We use the Top Issues dashboard for tracking community demand (see [#1935](https://github.com/anuraghazra/github-readme-stats/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
