@@ -1,3 +1,24 @@
+> [!IMPORTANT]\
+> Older systems, IoT devices, or outdated software don't receive immediate updates or don't receive any at all. Therefore, for a large portion of the installed fleet, it remains a 0-day vulnerability. In practice, the malware or exploit research community may continue to refer to a vulnerability exploited by malware as a "0-day vulnerability" because, in many environments, the risk is real and the exploit effective until the majority of users or systems are protected. Many devices or operating systems that are at the end of their useful life (EOL) do not receive official patches. For these systems, the vulnerability remains a 0-day vulnerability for practical purposes, even if the manufacturer has released the patch for newer versions.
+
+<div style="display: inline-flex; align-items: center; background: black; padding: 6px 12px; border-radius: 6px; font-family: Arial, sans-serif; font-weight: 600; font-size: 16px;">
+
+  <!-- Mini escudo SVG negro/blanco -->
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" style="margin-right: 8px;" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#FFFFFF" d="M12 2L3 5v6c0 5 3.8 9.7 9 11 5.2-1.3 9-6 9-11V5l-9-3z"/>
+  </svg>
+
+  <!-- Texto blanco sobre negro -->
+  <span style="color: white; margin-right: 6px;">look it</span>
+
+  <!-- Texto morado -->
+  <span style="color: #8a2be2;">is</span>
+
+</div>
+
+> [!IMPORTANT]\
+> We're a small team, and to prioritize, we rely on upvotes :+1:. We use the Top Issues dashboard for tracking community demand (see [#1935](https://github.com/anuraghazra/github-readme-stats/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
+
 # LOTUXorg
 
 This trojan is a sophisticated multi-vector malware that leverages several powerful zero-day vulnerabilities including CVE-2025-26633, CVE-2025-24985, and CVE-2025-27737 to achieve stealthy privilege escalation and persistent system compromise. It incorporates advanced UAC bypass techniques based on URL protocol hijacking that allow it to execute commands with elevated privileges without triggering user prompts or requiring administrative consent. In addition, the trojan includes a reliable Safe Mode bypass mechanism that ensures it continues to operate even when the system attempts to enter restricted or diagnostic modes designed to block malware activity. For persistence, the trojan employs robust techniques such as registry autorun entries, strategic injection into SYSTEM processes, and scheduled task manipulation, enabling it to maintain foothold across reboots and evade most standard detection and removal methods. The combination of zero-day exploitation, stealthy privilege escalation, and resilient persistence mechanisms makes this trojan highly effective for covert operations and long-term access within compromised environments.
