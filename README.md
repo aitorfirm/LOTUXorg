@@ -22,4 +22,21 @@ It would be the keylogger, etc...
 powershell -WindowStyle Hidden -ExecutionPolicy Bypass -Command \"Start-Process cmd -ArgumentList '/c ping -n 1 (IP) >nul' -WindowStyle Hidden\
 ``` 
 
+## FAQ
+
+#### Question 1
+
+Are the vulnerabilities 0-days? Yes, they are not fixed.
+
+#### Question 2
+
+When do they stop being 0-days? When are they fixed
+
+
+## Documentation
+
+[CVE-2025-26633]([https://linktodocumentation](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26633))
+[CVE-2025-24985](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24985)
+[CVE-2025-27737]([https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-27737))
+
 > 💡 Contact Us: 0x0A1T0R@proton.me
