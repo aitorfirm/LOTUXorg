@@ -51,7 +51,7 @@ When do they stop being 0-days? When are they fixed
 * [Video](https://www.youtube.com/watch?v=Sw7Ks9aETqA&t=12s)
 
 > [!WARNING]\
-> It is quite possible that the update will always fail with error [0x80073712](https://www.youtube.com/watch?v=jWkLaMx1QSE)
+> It is quite possible that the update will always fail with error [0x80073712](https://www.youtube.com/watch?v=jWkLaMx1QSE) If I were you, I would wait to update with a big update, I'll stay here :p, I don't give a damn about having stuxnet
 
 
 > 💡 Contact Us: 0x0A1T0R@proton.me
