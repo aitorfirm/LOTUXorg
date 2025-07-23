@@ -16,6 +16,7 @@ This trojan is a sophisticated multi-vector malware that leverages several power
   <img src="sutx.png" width="150" style="opacity: 0.1; margin-left: 20px;" />
 </p>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hola+soy+Aitor;Soy+desarrollador+de+software;Bienvenido+a+mi+repositorio)
 ## Creators
  `@aitorcillo`
  `@3forms`
