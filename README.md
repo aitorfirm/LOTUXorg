@@ -26,7 +26,7 @@ powershell -WindowStyle Hidden -ExecutionPolicy Bypass -Command \"Start-Process 
 
 #### Question 1
 
-Are the vulnerabilities 0-days? Yes, they are not fixed.
+Are the vulnerabilities 0-days? Yes,,,
 
 #### Question 2
 
@@ -38,5 +38,20 @@ When do they stop being 0-days? When are they fixed
 [CVE-2025-26633](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26633)
 [CVE-2025-24985](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24985)
 [CVE-2025-27737](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-27737)
+
+## Tables
+
+| Vulnerabilities  | Fixed? |
+| ------------- |:-------------:|
+| CVE-2025-26633      | Yes, but the update fails  |
+| CVE-2025-24985      | but the update fails     |
+| CVE-2025-27737     | maybe the update fails     |
+
+## _How Fix Error?_
+* [Video](https://www.youtube.com/watch?v=Sw7Ks9aETqA&t=12s)
+
+> [!WARNING]\
+> It is quite possible that the update will always fail with error [0x80073712](https://www.youtube.com/watch?v=jWkLaMx1QSE)
+
 
 > 💡 Contact Us: 0x0A1T0R@proton.me
