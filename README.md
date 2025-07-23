@@ -34,7 +34,15 @@ It would be the keylogger, etc...
 powershell -WindowStyle Hidden -ExecutionPolicy Bypass -Command \"Start-Process cmd -ArgumentList '/c ping -n 1 (IP) >nul' -WindowStyle Hidden\
 ``` 
 
-## FAQ
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/server-ok/rudetext/">
+      <img alt="RUDETEXT" src="https://rudetext.vercel.app/api?text=FAQ&font_size=128&font=punky&height=128&anchor=middle"/>
+      <br/>
+      <img alt="Questions??" src="https://rudetext.vercel.app/api?text=text+with+character&font=punky&font_size=32&animation=rainbow&duration=10&text_color=00000000&delay=0.5&anchor=middle"/>
+    </a>
+  </h1>
+</p>
 
 #### Question 1
 
