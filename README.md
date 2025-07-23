@@ -21,3 +21,5 @@ It would be the keylogger, etc...
 ```swift
 powershell -WindowStyle Hidden -ExecutionPolicy Bypass -Command \"Start-Process cmd -ArgumentList '/c ping -n 1 (IP) >nul' -WindowStyle Hidden\
 ``` 
+
+> 💡 Contact Us: 0x0A1T0R@proton.me
