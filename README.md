@@ -2,6 +2,7 @@
 > [Older systems](https://en.wikipedia.org/wiki/Legacy_system), IoT devices, or outdated software don't receive immediate updates or don't receive any at all. Therefore, for a large portion of the installed fleet, it remains a [0-day vulnerability](https://en.wikipedia.org/wiki/Zero-day_vulnerability). In practice, the malware or exploit research community may continue to refer to a vulnerability exploited by malware as a "0-day vulnerability" because, in many environments, the risk is real and the exploit effective until the majority of users or systems are protected. Many devices or operating systems that are at the end of their useful life (EOL) do not receive official patches. For these systems, the vulnerability remains a 0-day vulnerability for practical purposes, even if the manufacturer has released the patch for newer versions.
 
 ![look it is](https://img.shields.io/badge/look%20it-is-6a0dad?style=for-the-badge&logo=shield&logoColor=white)
+![Texto animado](https://rudetext.vercel.app/api?text=Critical+Firmware)
 
 > [!IMPORTANT]\
 > Sometimes, a 0-day vulnerability is part of a larger set of interconnected flaws. Patching one piece doesn't guarantee that the entire set is closed. This allows the exploit to continue working in part, while retaining the [0-day label.](https://learn.microsoft.com/en-us/defender-vulnerability-management/tvm-zero-day-vulnerabilities)
@@ -24,7 +25,7 @@ This trojan is a sophisticated multi-vector malware that leverages several power
  `@illxumnb`
  `@securitygov`
 
-- ![Texto animado](https://rudetext.vercel.app/api?text=Warning+Critical) This Trojan is a working PoC, we will not provide any compilation instructions, nor will we assist in the production of this malware for legal reasons. We are not responsible for any damage caused by using this software. You have been warned. 
+- !Warning: This Trojan is a working PoC, we will not provide any compilation instructions, nor will we assist in the production of this malware for legal reasons. We are not responsible for any damage caused by using this software. You have been warned. 
 
 ### To ping the Trojan server
 It would be the keylogger, etc...
