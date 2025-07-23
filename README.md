@@ -10,8 +10,10 @@
 ![multi–vector](https://img.shields.io/badge/multi–vector-red?style=for-the-badge&logo=shield&logoColor=white)
 This trojan is a sophisticated multi-vector malware that leverages several powerful zero-day vulnerabilities including CVE-2025-26633, CVE-2025-24985, and CVE-2025-27737 to achieve stealthy privilege escalation and persistent system compromise. It incorporates advanced UAC bypass techniques based on URL protocol hijacking that allow it to execute commands with elevated privileges without triggering user prompts or requiring administrative consent. In addition, the trojan includes a reliable Safe Mode bypass mechanism that ensures it continues to operate even when the system attempts to enter restricted or diagnostic modes designed to block malware activity. For persistence, the trojan employs robust techniques such as registry autorun entries, strategic injection into SYSTEM processes, and scheduled task manipulation, enabling it to maintain foothold across reboots and evade most standard detection and removal methods. The combination of zero-day exploitation, stealthy privilege escalation, and resilient persistence mechanisms makes this trojan highly effective for covert operations and long-term access within compromised environments.
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="ghost-left.png" width="150" style="opacity: 0.1; margin-right: 20px;" />
   <img src="sutx.png" width="400" />
+  <img src="ghost-right.png" width="150" style="opacity: 0.1; margin-left: 20px;" />
 </p>
 
 ## Creators
