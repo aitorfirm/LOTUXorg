@@ -1,3 +1,11 @@
+![R](https://img.shields.io/badge/R-red?style=flat&logoColor=red)
+![A](https://img.shields.io/badge/A-orange?style=flat&logoColor=orange)
+![I](https://img.shields.io/badge/I-yellow?style=flat&logoColor=yellow)
+![N](https://img.shields.io/badge/N-green?style=flat&logoColor=green)
+![B](https://img.shields.io/badge/B-blue?style=flat&logoColor=blue)
+![O](https://img.shields.io/badge/O-indigo?style=flat&logoColor=indigo)
+![W](https://img.shields.io/badge/W-violet?style=flat&logoColor=violet)
+
 > [!IMPORTANT]\
 > [Older systems](https://en.wikipedia.org/wiki/Legacy_system), IoT devices, or outdated software don't receive immediate updates or don't receive any at all. Therefore, for a large portion of the installed fleet, it remains a [0-day vulnerability](https://en.wikipedia.org/wiki/Zero-day_vulnerability). In practice, the malware or exploit research community may continue to refer to a vulnerability exploited by malware as a "0-day vulnerability" because, in many environments, the risk is real and the exploit effective until the majority of users or systems are protected. Many devices or operating systems that are at the end of their useful life (EOL) do not receive official patches. For these systems, the vulnerability remains a 0-day vulnerability for practical purposes, even if the manufacturer has released the patch for newer versions.
 
