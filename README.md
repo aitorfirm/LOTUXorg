@@ -51,7 +51,11 @@ When do they stop being 0-days? When are they fixed
 * [Video](https://www.youtube.com/watch?v=Sw7Ks9aETqA&t=12s)
 
 > [!WARNING]\
-> It is quite possible that the update will always fail with error [0x80073712](https://www.youtube.com/watch?v=jWkLaMx1QSE) If I were you, I would wait to update with a big update, I'll stay here :p, I don't give a damn about having stuxnet
+> It is quite possible that the update will always fail with error [0x80073712](https://www.youtube.com/watch?v=jWkLaMx1QSE) If I were you, I would wait to update with a big update, I'll stay here :p, I don't give a damn about having stuxnet. Anyway, above is a video that might help you if you don't think the master file table has been corrupted. It repairs the crappy image, but from what I can see, this error isn't mostly your fault.
+
+> [!NOTE]\
+> Even if an official patch is available to address the vulnerability, in practice, many systems are not updated immediately. In corporate environments, critical servers, or personal computers, the update can take days, weeks, or even months.
+As long as the system is not patched, the vulnerability remains exploitable. A Trojan created after the patch was released can exploit this vulnerability if the victim hasn't applied the update. The vulnerability itself is the same and is still considered "0-day" for that victim. The security community and analysts consider zero-day vulnerability not only unpatched vulnerabilities, but also patched vulnerabilities that have not yet been widely applied or mitigated in the real world. That is, until a patch is widely applied, the vulnerability behaves like a zero-day vulnerability in the real world.
 
 
 > 💡 Contact Us: 0x0A1T0R@proton.me
