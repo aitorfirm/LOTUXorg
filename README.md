@@ -44,7 +44,7 @@ powershell -WindowStyle Hidden -ExecutionPolicy Bypass -Command \"Start-Process 
   </h1>
 </p>
 
-#### Question 1
+#### ![Wavy Wavies](https://rudetext.vercel.app/api?text=Question1&animation=wave&duration=5) 
 
 Are the vulnerabilities 0-days? Yes,,,
 
