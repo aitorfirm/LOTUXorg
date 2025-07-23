@@ -1,7 +1,3 @@
-<p align="center"><s>Open-Source Trojan</s></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aitorfirm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
 > [!IMPORTANT]\
 > [Older systems](https://en.wikipedia.org/wiki/Legacy_system), IoT devices, or outdated software don't receive immediate updates or don't receive any at all. Therefore, for a large portion of the installed fleet, it remains a [0-day vulnerability](https://en.wikipedia.org/wiki/Zero-day_vulnerability). In practice, the malware or exploit research community may continue to refer to a vulnerability exploited by malware as a "0-day vulnerability" because, in many environments, the risk is real and the exploit effective until the majority of users or systems are protected. Many devices or operating systems that are at the end of their useful life (EOL) do not receive official patches. For these systems, the vulnerability remains a 0-day vulnerability for practical purposes, even if the manufacturer has released the patch for newer versions.
 
